@@ -14,8 +14,6 @@
 
 Примеры:
 
-![Alt-текст](https://i.imgur.com/LDc90E7.png "HUD")
-
 ![Alt-текст](https://i.imgur.com/LDc90E7.png "Время")
 
 ![Alt-текст](https://i.imgur.com/G5xhfKc.png "glist")
