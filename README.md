@@ -22,6 +22,3 @@
 
 ![Alt-текст](https://i.imgur.com/OXtFyzm.png "gsetrpc")
 ![Alt-текст](https://i.imgur.com/XqQAGvr.png "gsetrpc")
-
-
-Сервер поддержки: https://discord.gg/E6bmrDG5sr
